@@ -2,6 +2,6 @@
 
 The official GitHub profile of the BiznisBox organization.
 
-BiznisBox is an online software for the basic management of company finances.
+BiznisBox is a powerful, open-source invoice management software designed to help businesses
 
 Visit our [website](https://biznisbox.com) to learn more.
